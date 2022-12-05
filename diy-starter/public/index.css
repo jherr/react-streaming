@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+}
+
+header, footer {
+  background-color: darkblue;
+  color: #fff;
+  padding: 10px;
+  font-weight: bold;
+  font-size: large;
+  margin: 1rem 0;
+}
